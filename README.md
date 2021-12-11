@@ -3,6 +3,7 @@
 In this project, we set to make produce recommendations to users of the Instacart online grocery
 shop by mixing supervised machine learning methods trained on time features and by refining them
 using association rule mining. We use a data set from Kaggle: https://www.kaggle.com/c/instacart-market-basket-analysis/data
+
 Our main question is: can we refine a standard classification algorithm using association rule mining?
 
 Key points from the data set:
